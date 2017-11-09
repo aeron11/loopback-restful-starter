@@ -1,0 +1,25 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "mysqldb": {
+    "host": "10.141.*.*",
+    "port": 3306,
+    "database": "***",
+    "username": "***",
+    "password": "***",
+    "name": "mysqldb",
+    "connector": "mysql"
+  },
+  "myMongodb": {
+    "host": "localhost",
+    "port": 27017,
+    "url": "mongodb://127.0.0.1:27017/loopbackStart",
+    "database": "loopbackStart",
+    "password": "",
+    "name": "myMongodb",
+    "user": "",
+    "connector": "mongodb"
+  }
+}
