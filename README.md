@@ -40,9 +40,9 @@ $ npm run devstart or node .
 ```
 
 
-### check all APIs through this [link](http://localhost:3000/explorer) after start service
+### check all APIs through this [link](http://localhost:3000/explorer) after started your service
 
-### call api url examples：
+### call api url examples：(access_token need to be changed)
     http://localhost:3000/api/departments
     http://localhost:3000/api/departments/1
 
